@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **developing my coding skills**
 
-- 🌱 I’m currently learning **about web development frameworks**
+- 🌱 I’m learning **about web development frameworks** at the moment
 
 - 👯 I’m looking to collaborate on **open source projects related to web development**
 
